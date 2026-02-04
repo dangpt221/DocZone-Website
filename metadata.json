@@ -1,0 +1,5 @@
+{
+  "name": "TrustGuard - Zero Trust Document Management",
+  "description": "A high-security document access management system implementing Zero Trust principles, RBAC (Manager/Employee), AES-simulated encryption, and OTP-based verification for document retrieval.",
+  "requestFramePermissions": []
+}
